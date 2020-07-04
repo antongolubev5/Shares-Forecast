@@ -1,1 +1,1 @@
-Comparison of methods for identifying persistent phrases from the text within the course "Information retrieval". .
+Forecasting share price growth by its historical time series and stock index within the course "Machine Learning" in BMSTU.
